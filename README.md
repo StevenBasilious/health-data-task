@@ -31,7 +31,7 @@ This project builds a health data analysis system with a React dashboard (Tasks 
 
 ## Submission Files
 - **frontend/**: `package.json`, `src/App.js`, `src/firebase.js`, `src/App.css`, `public/index.html`, `public/dataset.json`, `README.md`
-- **backend/**: `classify_health.py`, `dataset.json`, `feature_importance.png`, `requirements.txt`, `README.md`
+- **backend/**: `predict_patient_health_categories.py`, `dataset.json`, `README.md`
 - Root `README.md`
 
 ## Acknowledgments
